@@ -1,0 +1,24 @@
+passColor: 05a167
+failColor: ff00ff
+skipColor: a89132
+displayTag: true
+displayFeature: true
+displayScenario: true
+displayDetailed: true
+displayAttached: true
+displayExpanded: true
+
+dashboardConfig:
+  title: Cucumber PDF report
+  dataBackgroundColor: 4f0CC8
+  titleColor:
+    dateColor:969696
+    timeColor:00000
+  dial:
+    featureRanges: 60 95
+    scenarioRanges: 70 90
+    stepRanges: 75 85
+    badColor: 93ffff
+    goodColor: 32ccab
+
+

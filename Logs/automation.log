@@ -1,0 +1,36 @@
+12:52:47.904 [main] INFO  StepDefinitions.Step - Url opened..
+12:52:50.088 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+12:52:50.417 [main] INFO  StepDefinitions.Step - User clicked on login button..
+12:52:52.979 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+12:53:04.416 [main] INFO  StepDefinitions.Step - Url opened..
+12:53:06.587 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+12:53:06.948 [main] INFO  StepDefinitions.Step - User clicked on login button..
+12:53:13.490 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+12:53:13.926 [main] INFO  StepDefinitions.Step - Closing browser
+13:02:06.765 [main] INFO  StepDefinitions.Step - Url opened..
+13:02:08.979 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+13:02:09.405 [main] INFO  StepDefinitions.Step - User clicked on login button..
+13:02:11.974 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+13:02:23.128 [main] INFO  StepDefinitions.Step - Url opened..
+13:02:25.330 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+13:02:25.698 [main] INFO  StepDefinitions.Step - User clicked on login button..
+13:02:32.295 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+13:02:32.757 [main] INFO  StepDefinitions.Step - Closing browser
+13:08:25.602 [main] INFO  StepDefinitions.Step - Url opened..
+13:08:27.800 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+13:08:28.163 [main] INFO  StepDefinitions.Step - User clicked on login button..
+13:08:30.770 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+13:08:41.109 [main] INFO  StepDefinitions.Step - Url opened..
+13:08:43.279 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+13:08:43.653 [main] INFO  StepDefinitions.Step - User clicked on login button..
+13:08:50.168 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+13:08:50.589 [main] INFO  StepDefinitions.Step - Closing browser
+18:01:51.845 [main] INFO  StepDefinitions.Step - Url opened..
+18:01:54.199 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:01:55.293 [main] INFO  StepDefinitions.Step - User clicked on login button..
+18:01:58.129 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:02:09.384 [main] INFO  StepDefinitions.Step - Url opened..
+18:02:11.568 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:02:12.028 [main] INFO  StepDefinitions.Step - User clicked on login button..
+18:02:18.513 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:02:18.968 [main] INFO  StepDefinitions.Step - Closing browser

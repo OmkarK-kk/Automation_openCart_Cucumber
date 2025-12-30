@@ -1,0 +1,403 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] --------------------< org.example:oprnCartCucumber >--------------------
+[INFO] Building oprnCartCucumber 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- help:3.5.1:effective-pom (default-cli) @ oprnCartCucumber ---
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.13.1/maven-plugin-tools-generators-3.13.1.pom
+Progress (1): 844 BProgress (1): 2.5 kBProgress (1): 4.1 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.13.1/maven-plugin-tools-generators-3.13.1.pom (4.1 kB at 4.7 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/jsoup/jsoup/1.17.2/jsoup-1.17.2.pom
+Progress (1): 859 BProgress (1): 2.0 kBProgress (1): 3.2 kBProgress (1): 5.3 kBProgress (1): 8.4 kBProgress (1): 9.6 kBProgress (1): 12 kB Progress (1): 16 kBProgress (1): 16 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/jsoup/jsoup/1.17.2/jsoup-1.17.2.pom (16 kB at 210 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/4.0.0/maven-reporting-api-4.0.0.pom
+Progress (1): 796 BProgress (1): 1.9 kBProgress (1): 2.8 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/4.0.0/maven-reporting-api-4.0.0.pom (2.8 kB at 46 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/43/maven-shared-components-43.pom
+Progress (1): 802 BProgress (1): 1.9 kBProgress (1): 3.8 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/43/maven-shared-components-43.pom (3.8 kB at 80 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.20/xstream-1.4.20.pom
+Progress (1): 943 BProgress (1): 3.6 kBProgress (1): 4.1 kBProgress (1): 6.9 kBProgress (1): 9.6 kBProgress (1): 12 kB Progress (1): 19 kBProgress (1): 24 kBProgress (1): 25 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.20/xstream-1.4.20.pom (25 kB at 350 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.4.20/xstream-parent-1.4.20.pom
+Progress (1): 811 BProgress (1): 3.2 kBProgress (1): 4.8 kBProgress (1): 9.1 kBProgress (1): 12 kB Progress (1): 16 kBProgress (1): 21 kBProgress (1): 26 kBProgress (1): 29 kBProgress (1): 34 kBProgress (1): 38 kBProgress (1): 40 kBProgress (1): 43 kBProgress (1): 44 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.4.20/xstream-parent-1.4.20.pom (44 kB at 661 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/io/github/x-stream/mxparser/1.2.2/mxparser-1.2.2.pom
+Progress (1): 819 BProgress (1): 2.9 kBProgress (1): 5.0 kBProgress (1): 8.8 kBProgress (1): 13 kB Progress (1): 16 kBProgress (1): 21 kBProgress (1): 24 kBProgress (1): 24 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/io/github/x-stream/mxparser/1.2.2/mxparser-1.2.2.pom (24 kB at 404 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.pom
+Progress (1): 386 B                   Downloaded from central: https://repo.maven.apache.org/maven2/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.pom (386 B at 6.7 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.13.1/maven-plugin-tools-generators-3.13.1.jar
+Progress (1): 0.9/44 kBProgress (1): 2.3/44 kBProgress (1): 3.6/44 kBProgress (1): 5.0/44 kBProgress (1): 6.4/44 kBProgress (1): 7.7/44 kBProgress (1): 9.1/44 kBProgress (1): 13/44 kB Progress (1): 18/44 kBProgress (1): 20/44 kBProgress (1): 25/44 kBProgress (1): 29/44 kBProgress (1): 33/44 kBProgress (1): 37/44 kBProgress (1): 41/44 kBProgress (1): 44 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools-generators/3.13.1/maven-plugin-tools-generators-3.13.1.jar (44 kB at 527 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/jsoup/jsoup/1.17.2/jsoup-1.17.2.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/4.0.0/maven-reporting-api-4.0.0.jar
+Downloading from central: https://repo.maven.apache.org/maven2/io/github/x-stream/mxparser/1.2.2/mxparser-1.2.2.jar
+Downloading from central: https://repo.maven.apache.org/maven2/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.jar
+Downloading from central: https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.20/xstream-1.4.20.jar
+Progress (1): 3.8/30 kBProgress (1): 4.0/30 kBProgress (1): 8.2/30 kBProgress (1): 12/30 kB Progress (1): 17/30 kBProgress (1): 21/30 kBProgress (1): 25/30 kBProgress (1): 29/30 kBProgress (1): 30 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/io/github/x-stream/mxparser/1.2.2/mxparser-1.2.2.jar (30 kB at 283 kB/s)
+Progress (1): 0.9/446 kBProgress (1): 2.3/446 kBProgress (1): 3.6/446 kBProgress (1): 5.0/446 kBProgress (1): 6.4/446 kBProgress (1): 7.7/446 kBProgress (1): 9.1/446 kBProgress (1): 10/446 kB Progress (1): 12/446 kBProgress (1): 13/446 kBProgress (1): 15/446 kBProgress (1): 16/446 kBProgress (1): 17/446 kBProgress (1): 19/446 kBProgress (1): 20/446 kBProgress (1): 21/446 kBProgress (1): 23/446 kBProgress (1): 24/446 kBProgress (1): 26/446 kBProgress (1): 27/446 kBProgress (1): 28/446 kBProgress (1): 30/446 kBProgress (1): 31/446 kBProgress (1): 32/446 kBProgress (1): 34/446 kBProgress (1): 35/446 kBProgress (1): 36/446 kBProgress (1): 38/446 kBProgress (1): 39/446 kBProgress (1): 41/446 kBProgress (1): 42/446 kBProgress (1): 43/446 kBProgress (1): 45/446 kBProgress (1): 46/446 kBProgress (1): 47/446 kBProgress (1): 49/446 kBProgress (1): 50/446 kBProgress (1): 52/446 kBProgress (1): 53/446 kBProgress (1): 54/446 kBProgress (1): 56/446 kBProgress (1): 57/446 kBProgress (2): 57/446 kB | 0.9/9.8 kBProgress (2): 62/446 kB | 0.9/9.8 kBProgress (2): 62/446 kB | 2.3/9.8 kBProgress (2): 66/446 kB | 2.3/9.8 kBProgress (2): 66/446 kB | 3.6/9.8 kBProgress (2): 66/446 kB | 5.0/9.8 kBProgress (2): 70/446 kB | 5.0/9.8 kBProgress (2): 70/446 kB | 6.4/9.8 kBProgress (2): 70/446 kB | 7.7/9.8 kBProgress (2): 74/446 kB | 7.7/9.8 kBProgress (2): 74/446 kB | 9.1/9.8 kBProgress (2): 74/446 kB | 9.8 kB    Progress (2): 78/446 kB | 9.8 kBProgress (2): 83/446 kB | 9.8 kBProgress (2): 87/446 kB | 9.8 kBProgress (2): 91/446 kB | 9.8 kBProgress (2): 95/446 kB | 9.8 kBProgress (2): 100/446 kB | 9.8 kBProgress (2): 104/446 kB | 9.8 kBProgress (2): 108/446 kB | 9.8 kB                                 Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/4.0.0/maven-reporting-api-4.0.0.jar (9.8 kB at 48 kB/s)
+Progress (1): 112/446 kBProgress (1): 117/446 kBProgress (1): 121/446 kBProgress (1): 125/446 kBProgress (1): 129/446 kBProgress (1): 133/446 kBProgress (1): 138/446 kBProgress (2): 138/446 kB | 1.4/645 kBProgress (2): 138/446 kB | 2.7/645 kBProgress (2): 138/446 kB | 4.1/645 kBProgress (2): 138/446 kB | 5.5/645 kBProgress (2): 138/446 kB | 6.8/645 kBProgress (2): 138/446 kB | 8.2/645 kBProgress (2): 138/446 kB | 9.6/645 kBProgress (2): 138/446 kB | 11/645 kB Progress (2): 138/446 kB | 12/645 kBProgress (2): 138/446 kB | 14/645 kBProgress (2): 138/446 kB | 15/645 kBProgress (2): 138/446 kB | 16/645 kBProgress (2): 138/446 kB | 18/645 kBProgress (2): 138/446 kB | 19/645 kBProgress (2): 138/446 kB | 21/645 kBProgress (2): 138/446 kB | 22/645 kBProgress (2): 138/446 kB | 23/645 kBProgress (2): 138/446 kB | 25/645 kBProgress (2): 138/446 kB | 26/645 kBProgress (2): 138/446 kB | 27/645 kBProgress (2): 138/446 kB | 29/645 kBProgress (2): 138/446 kB | 30/645 kBProgress (2): 138/446 kB | 31/645 kBProgress (2): 138/446 kB | 33/645 kBProgress (2): 138/446 kB | 34/645 kBProgress (2): 138/446 kB | 36/645 kBProgress (2): 138/446 kB | 37/645 kBProgress (2): 138/446 kB | 38/645 kBProgress (2): 138/446 kB | 40/645 kBProgress (2): 138/446 kB | 41/645 kBProgress (2): 138/446 kB | 42/645 kBProgress (2): 138/446 kB | 44/645 kBProgress (2): 138/446 kB | 45/645 kBProgress (2): 138/446 kB | 47/645 kBProgress (2): 138/446 kB | 48/645 kBProgress (2): 138/446 kB | 49/645 kBProgress (2): 138/446 kB | 51/645 kBProgress (2): 138/446 kB | 52/645 kBProgress (2): 138/446 kB | 53/645 kBProgress (2): 138/446 kB | 55/645 kBProgress (2): 138/446 kB | 57/645 kBProgress (2): 138/446 kB | 62/645 kBProgress (2): 138/446 kB | 66/645 kBProgress (2): 138/446 kB | 70/645 kBProgress (2): 138/446 kB | 74/645 kBProgress (2): 138/446 kB | 78/645 kBProgress (2): 138/446 kB | 83/645 kBProgress (2): 138/446 kB | 87/645 kBProgress (2): 138/446 kB | 91/645 kBProgress (2): 138/446 kB | 95/645 kBProgress (2): 138/446 kB | 100/645 kBProgress (2): 138/446 kB | 104/645 kBProgress (2): 138/446 kB | 108/645 kBProgress (2): 138/446 kB | 112/645 kBProgress (2): 138/446 kB | 117/645 kBProgress (2): 142/446 kB | 117/645 kBProgress (2): 142/446 kB | 121/645 kBProgress (2): 146/446 kB | 121/645 kBProgress (2): 146/446 kB | 125/645 kBProgress (2): 146/446 kB | 129/645 kBProgress (2): 150/446 kB | 129/645 kBProgress (2): 155/446 kB | 129/645 kBProgress (2): 159/446 kB | 129/645 kBProgress (2): 163/446 kB | 129/645 kBProgress (2): 167/446 kB | 129/645 kBProgress (2): 172/446 kB | 129/645 kBProgress (2): 176/446 kB | 129/645 kBProgress (2): 180/446 kB | 129/645 kBProgress (2): 184/446 kB | 129/645 kBProgress (2): 188/446 kB | 129/645 kBProgress (3): 188/446 kB | 129/645 kB | 0.9/7.2 kBProgress (3): 188/446 kB | 129/645 kB | 2.3/7.2 kBProgress (3): 188/446 kB | 129/645 kB | 3.6/7.2 kBProgress (3): 188/446 kB | 129/645 kB | 5.0/7.2 kBProgress (3): 188/446 kB | 129/645 kB | 6.4/7.2 kBProgress (3): 188/446 kB | 129/645 kB | 7.2 kB    Progress (3): 193/446 kB | 129/645 kB | 7.2 kBProgress (3): 197/446 kB | 129/645 kB | 7.2 kBProgress (3): 201/446 kB | 129/645 kB | 7.2 kBProgress (3): 205/446 kB | 129/645 kB | 7.2 kB                                              Downloaded from central: https://repo.maven.apache.org/maven2/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.jar (7.2 kB at 27 kB/s)
+Progress (2): 210/446 kB | 129/645 kBProgress (2): 214/446 kB | 129/645 kBProgress (2): 218/446 kB | 129/645 kBProgress (2): 222/446 kB | 129/645 kBProgress (2): 239/446 kB | 129/645 kBProgress (2): 239/446 kB | 133/645 kBProgress (2): 239/446 kB | 138/645 kBProgress (2): 239/446 kB | 142/645 kBProgress (2): 239/446 kB | 146/645 kBProgress (2): 239/446 kB | 150/645 kBProgress (2): 239/446 kB | 155/645 kBProgress (2): 239/446 kB | 159/645 kBProgress (2): 239/446 kB | 163/645 kBProgress (2): 239/446 kB | 167/645 kBProgress (2): 239/446 kB | 172/645 kBProgress (2): 239/446 kB | 176/645 kBProgress (2): 239/446 kB | 180/645 kBProgress (2): 239/446 kB | 184/645 kBProgress (2): 239/446 kB | 188/645 kBProgress (2): 239/446 kB | 193/645 kBProgress (2): 239/446 kB | 197/645 kBProgress (2): 239/446 kB | 201/645 kBProgress (2): 239/446 kB | 205/645 kBProgress (2): 239/446 kB | 210/645 kBProgress (2): 239/446 kB | 214/645 kBProgress (2): 239/446 kB | 218/645 kBProgress (2): 239/446 kB | 222/645 kBProgress (2): 255/446 kB | 222/645 kBProgress (2): 255/446 kB | 239/645 kBProgress (2): 271/446 kB | 239/645 kBProgress (2): 271/446 kB | 255/645 kBProgress (2): 288/446 kB | 255/645 kBProgress (2): 304/446 kB | 255/645 kBProgress (2): 319/446 kB | 255/645 kBProgress (2): 336/446 kB | 255/645 kBProgress (2): 352/446 kB | 255/645 kBProgress (2): 369/446 kB | 255/645 kBProgress (2): 369/446 kB | 271/645 kBProgress (2): 369/446 kB | 288/645 kBProgress (2): 369/446 kB | 290/645 kBProgress (2): 369/446 kB | 307/645 kBProgress (2): 369/446 kB | 323/645 kBProgress (2): 369/446 kB | 340/645 kBProgress (2): 385/446 kB | 340/645 kBProgress (2): 385/446 kB | 356/645 kBProgress (2): 385/446 kB | 372/645 kBProgress (2): 401/446 kB | 372/645 kBProgress (2): 401/446 kB | 389/645 kBProgress (2): 418/446 kB | 389/645 kBProgress (2): 434/446 kB | 389/645 kBProgress (2): 446 kB | 389/645 kB    Progress (2): 446 kB | 405/645 kBProgress (2): 446 kB | 422/645 kB                                 Downloaded from central: https://repo.maven.apache.org/maven2/org/jsoup/jsoup/1.17.2/jsoup-1.17.2.jar (446 kB at 919 kB/s)
+Progress (1): 438/645 kBProgress (1): 454/645 kBProgress (1): 471/645 kBProgress (1): 487/645 kBProgress (1): 503/645 kBProgress (1): 520/645 kBProgress (1): 536/645 kBProgress (1): 553/645 kBProgress (1): 569/645 kBProgress (1): 585/645 kBProgress (1): 602/645 kBProgress (1): 618/645 kBProgress (1): 635/645 kBProgress (1): 645 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.20/xstream-1.4.20.jar (645 kB at 1.1 MB/s)
+[INFO] 
+Effective POMs, after inheritance, interpolation, and profiles are applied:
+
+<?xml version="1.0" encoding="Cp1252"?>
+<!-- ====================================================================== -->
+<!--                                                                        -->
+<!-- Generated by Maven Help Plugin                                         -->
+<!-- See: https://maven.apache.org/plugins/maven-help-plugin/               -->
+<!--                                                                        -->
+<!-- ====================================================================== -->
+<!-- ====================================================================== -->
+<!--                                                                        -->
+<!-- Effective POM for project                                              -->
+<!-- 'org.example:oprnCartCucumber:jar:1.0-SNAPSHOT'                        -->
+<!--                                                                        -->
+<!-- ====================================================================== -->
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.example</groupId>
+  <artifactId>oprnCartCucumber</artifactId>
+  <version>1.0-SNAPSHOT</version>
+  <properties>
+    <maven.compiler.source>17</maven.compiler.source>
+    <maven.compiler.target>17</maven.compiler.target>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+  <dependencies>
+    <dependency>
+      <groupId>io.cucumber</groupId>
+      <artifactId>cucumber-java</artifactId>
+      <version>7.32.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>ch.qos.logback</groupId>
+      <artifactId>logback-classic</artifactId>
+      <version>1.5.16</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>io.cucumber</groupId>
+      <artifactId>cucumber-core</artifactId>
+      <version>7.30.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>io.cucumber</groupId>
+      <artifactId>cucumber-html</artifactId>
+      <version>0.2.7</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>tech.grasshopper</groupId>
+      <artifactId>extentreports-cucumber7-adapter</artifactId>
+      <version>1.14.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>io.cucumber</groupId>
+      <artifactId>cucumber-jvm-deps</artifactId>
+      <version>1.0.6</version>
+      <scope>provided</scope>
+    </dependency>
+    <dependency>
+      <groupId>net.masterthought</groupId>
+      <artifactId>cucumber-reporting</artifactId>
+      <version>5.9.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>log4j</groupId>
+      <artifactId>log4j</artifactId>
+      <version>1.2.17</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>tech.grasshopper</groupId>
+      <artifactId>extent-pdf-report</artifactId>
+      <version>1.8.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.logging.log4j</groupId>
+      <artifactId>log4j-api</artifactId>
+      <version>2.25.3</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.logging.log4j</groupId>
+      <artifactId>log4j-core</artifactId>
+      <version>2.25.3</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>net.sourceforge.cobertura</groupId>
+      <artifactId>cobertura</artifactId>
+      <version>2.1.1</version>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.hamcrest</groupId>
+      <artifactId>hamcrest-core</artifactId>
+      <version>3.0</version>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>io.cucumber</groupId>
+      <artifactId>gherkin</artifactId>
+      <version>36.0.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.seleniumhq.selenium</groupId>
+      <artifactId>selenium-java</artifactId>
+      <version>4.38.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>io.cucumber</groupId>
+      <artifactId>cucumber-picocontainer</artifactId>
+      <version>7.32.0</version>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.aventstack</groupId>
+      <artifactId>extentreports</artifactId>
+      <version>5.1.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.testng</groupId>
+      <artifactId>testng</artifactId>
+      <version>7.11.0</version>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>io.cucumber</groupId>
+      <artifactId>cucumber-testng</artifactId>
+      <version>7.33.0</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+  <repositories>
+    <repository>
+      <snapshots>
+        <enabled>false</enabled>
+      </snapshots>
+      <id>central</id>
+      <name>Central Repository</name>
+      <url>https://repo.maven.apache.org/maven2</url>
+    </repository>
+  </repositories>
+  <pluginRepositories>
+    <pluginRepository>
+      <snapshots>
+        <enabled>false</enabled>
+      </snapshots>
+      <id>central</id>
+      <name>Central Repository</name>
+      <url>https://repo.maven.apache.org/maven2</url>
+    </pluginRepository>
+  </pluginRepositories>
+  <build>
+    <sourceDirectory>C:\Users\Omkar\IdeaProjects\nopCommerceCucumber\src\main\java</sourceDirectory>
+    <scriptSourceDirectory>C:\Users\Omkar\IdeaProjects\nopCommerceCucumber\src\main\scripts</scriptSourceDirectory>
+    <testSourceDirectory>C:\Users\Omkar\IdeaProjects\nopCommerceCucumber\src\test\java</testSourceDirectory>
+    <outputDirectory>C:\Users\Omkar\IdeaProjects\nopCommerceCucumber\target\classes</outputDirectory>
+    <testOutputDirectory>C:\Users\Omkar\IdeaProjects\nopCommerceCucumber\target\test-classes</testOutputDirectory>
+    <resources>
+      <resource>
+        <directory>C:\Users\Omkar\IdeaProjects\nopCommerceCucumber\src\main\resources</directory>
+      </resource>
+    </resources>
+    <testResources>
+      <testResource>
+        <directory>C:\Users\Omkar\IdeaProjects\nopCommerceCucumber\src\test\resources</directory>
+      </testResource>
+    </testResources>
+    <directory>C:\Users\Omkar\IdeaProjects\nopCommerceCucumber\target</directory>
+    <finalName>oprnCartCucumber-1.0-SNAPSHOT</finalName>
+    <pluginManagement>
+      <plugins>
+        <plugin>
+          <artifactId>maven-antrun-plugin</artifactId>
+          <version>3.1.0</version>
+        </plugin>
+        <plugin>
+          <artifactId>maven-assembly-plugin</artifactId>
+          <version>3.7.1</version>
+        </plugin>
+        <plugin>
+          <artifactId>maven-dependency-plugin</artifactId>
+          <version>3.7.0</version>
+        </plugin>
+        <plugin>
+          <artifactId>maven-release-plugin</artifactId>
+          <version>3.0.1</version>
+        </plugin>
+      </plugins>
+    </pluginManagement>
+    <plugins>
+      <plugin>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>3.11.0</version>
+        <executions>
+          <execution>
+            <id>default-compile</id>
+            <phase>compile</phase>
+            <goals>
+              <goal>compile</goal>
+            </goals>
+          </execution>
+          <execution>
+            <id>default-testCompile</id>
+            <phase>test-compile</phase>
+            <goals>
+              <goal>testCompile</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+      <plugin>
+        <artifactId>maven-clean-plugin</artifactId>
+        <version>3.2.0</version>
+        <executions>
+          <execution>
+            <id>default-clean</id>
+            <phase>clean</phase>
+            <goals>
+              <goal>clean</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+      <plugin>
+        <artifactId>maven-resources-plugin</artifactId>
+        <version>3.3.1</version>
+        <executions>
+          <execution>
+            <id>default-testResources</id>
+            <phase>process-test-resources</phase>
+            <goals>
+              <goal>testResources</goal>
+            </goals>
+          </execution>
+          <execution>
+            <id>default-resources</id>
+            <phase>process-resources</phase>
+            <goals>
+              <goal>resources</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+      <plugin>
+        <artifactId>maven-jar-plugin</artifactId>
+        <version>3.4.1</version>
+        <executions>
+          <execution>
+            <id>default-jar</id>
+            <phase>package</phase>
+            <goals>
+              <goal>jar</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+      <plugin>
+        <artifactId>maven-surefire-plugin</artifactId>
+        <version>3.2.5</version>
+        <executions>
+          <execution>
+            <id>default-test</id>
+            <phase>test</phase>
+            <goals>
+              <goal>test</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+      <plugin>
+        <artifactId>maven-install-plugin</artifactId>
+        <version>3.1.2</version>
+        <executions>
+          <execution>
+            <id>default-install</id>
+            <phase>install</phase>
+            <goals>
+              <goal>install</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+      <plugin>
+        <artifactId>maven-deploy-plugin</artifactId>
+        <version>3.1.2</version>
+        <executions>
+          <execution>
+            <id>default-deploy</id>
+            <phase>deploy</phase>
+            <goals>
+              <goal>deploy</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+      <plugin>
+        <artifactId>maven-site-plugin</artifactId>
+        <version>3.12.1</version>
+        <executions>
+          <execution>
+            <id>default-site</id>
+            <phase>site</phase>
+            <goals>
+              <goal>site</goal>
+            </goals>
+            <configuration>
+              <outputDirectory>C:\Users\Omkar\IdeaProjects\nopCommerceCucumber\target\site</outputDirectory>
+              <reportPlugins>
+                <reportPlugin>
+                  <groupId>org.apache.maven.plugins</groupId>
+                  <artifactId>maven-project-info-reports-plugin</artifactId>
+                </reportPlugin>
+              </reportPlugins>
+            </configuration>
+          </execution>
+          <execution>
+            <id>default-deploy</id>
+            <phase>site-deploy</phase>
+            <goals>
+              <goal>deploy</goal>
+            </goals>
+            <configuration>
+              <outputDirectory>C:\Users\Omkar\IdeaProjects\nopCommerceCucumber\target\site</outputDirectory>
+              <reportPlugins>
+                <reportPlugin>
+                  <groupId>org.apache.maven.plugins</groupId>
+                  <artifactId>maven-project-info-reports-plugin</artifactId>
+                </reportPlugin>
+              </reportPlugins>
+            </configuration>
+          </execution>
+        </executions>
+        <configuration>
+          <outputDirectory>C:\Users\Omkar\IdeaProjects\nopCommerceCucumber\target\site</outputDirectory>
+          <reportPlugins>
+            <reportPlugin>
+              <groupId>org.apache.maven.plugins</groupId>
+              <artifactId>maven-project-info-reports-plugin</artifactId>
+            </reportPlugin>
+          </reportPlugins>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+  <reporting>
+    <outputDirectory>C:\Users\Omkar\IdeaProjects\nopCommerceCucumber\target\site</outputDirectory>
+  </reporting>
+</project>
+
+
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  5.005 s
+[INFO] Finished at: 2025-12-30T17:23:59+05:30
+[INFO] ------------------------------------------------------------------------
