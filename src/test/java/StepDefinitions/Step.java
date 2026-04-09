@@ -1,5 +1,6 @@
 package StepDefinitions;
 
+import Utilities.DriverFactory;
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.*;
 //import org.junit.Assert;
@@ -10,7 +11,8 @@ import pageObjects.*;
 import java.util.List;
 import java.util.Map;
 
-public class Step {
+public class
+Step {
 
     public Hooks hooks;
 
@@ -30,35 +32,35 @@ public class Step {
         this.ed = hooks.ed;
     }*/
 
-        @Given("User launch chrome browser")
-        public void user_launch_chrome_browser() {
-            // Browser launched in Hooks
-         //   hooks.logger.info("Browser started..");
-        }
+    @Given("User launch chrome browser")
+    public void user_launch_chrome_browser() {
+        // Browser launched in Hooks
+        hooks.logger.info("Browser started..");
+    }
 
     @When("User opens URl {string}")
     public void user_opens_u_rl(String url) throws InterruptedException {
         hooks.driver.get(url);
-      hooks.logger.info("Url opened..");
+        hooks.logger.info("Url opened..");
         Thread.sleep(2000);
     }
 
     @When("Click on My Account link")
     public void click_on_my_account_link() {
         hooks.hp.clickOnMyAccount();
-          hooks.logger.info("User clicked on My Account link..");
+        hooks.logger.info("User clicked on My Account link..");
     }
 
     @When("Click on Login Button")
     public void click_on_login_button() {
         hooks.hp.clickOnLogin();
-       hooks.logger.info("User clicked on login button..");
+        hooks.logger.info("User clicked on login button..");
     }
 
     @Then("Page Title should be {string}")
     public void page_title_should_be(String ExpPageTitle) {
-        String actPageTitle = hooks.driver.getTitle();
 
+        String actPageTitle = hooks.driver.getTitle();
         if (actPageTitle.equals(ExpPageTitle))
         {
             Assert.assertTrue(true);
@@ -69,18 +71,17 @@ public class Step {
         }
     }
 
-    @Then("User enters Username as {string}")
+    @When("User enters Username as {string}")
     public void user_enters_username_as(String Username) {
         hooks.lp.setTxtUserName(Username);
     }
 
-
-    @Then("User enters as Password as {string}")
+    @When("User enters as Password as {string}")
     public void user_enters_as_password_as(String Password) {
         hooks.lp.setTxtPassword(Password);
     }
 
-    @Then("Click on Login")
+    @When("Click on Login")
     public void click_on_login() {
         hooks.lp.clickOnLogin();
     }
@@ -141,14 +142,16 @@ public class Step {
         hooks.rp.clickOnContinue();
     }
 
+
     @When("User click on Edit Account")
-    public void user_click_on_edit_account() {
+    public void user_click_on_edit_account() throws InterruptedException {
+        Thread.sleep(2000);
         hooks.mp.clickOnEditAccount();
     }
 
     @When("User edit lastname")
     public void user_edit_lastname() {
-        hooks.ed.editLastName("Ooriiu");
+        hooks.ed.editLastName("Oooriiu");
     }
 
     @Then("Page Title should be displayed {string}")
@@ -167,8 +170,8 @@ public class Step {
 
     @When("User edit Telephone")
     public void user_edit_telephone() throws InterruptedException {
-        Thread.sleep(4000);
-        hooks.ed.editTelephone("8918675709");
+        Thread.sleep(15000);
+        hooks.ed.editTelephone("9019675709");
     }
 
 }

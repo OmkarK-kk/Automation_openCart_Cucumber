@@ -148,7 +148,7 @@ public class Step {
 
     @When("User edit lastname")
     public void user_edit_lastname() {
-        hooks.ed.editLastName("Ooriiu");
+        hooks.ed.editLastName("Ooyriiu");
     }
 
     @Then("Page Title should be displayed {string}")
@@ -168,7 +168,7 @@ public class Step {
     @When("User edit Telephone")
     public void user_edit_telephone() throws InterruptedException {
         Thread.sleep(4000);
-        hooks.ed.editTelephone("8918675709");
+        hooks.ed.editTelephone("8958675709");
     }
 
 }

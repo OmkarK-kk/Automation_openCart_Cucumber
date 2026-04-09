@@ -5,13 +5,16 @@ package TestRunner;
 
 import io.cucumber.testng.AbstractTestNGCucumberTests;
 import io.cucumber.testng.CucumberOptions;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.DataProvider;
+import org.testng.annotations.Parameters;
 //import org.junit.runner.RunWith;
 
 //@RunWith(Cucumber.class)
 @CucumberOptions(
       //features = {".\\Features"},
        // features = {".\\Features\\EditAccount.feature",".\\Features\\Login.feature"},
-        features = {".\\Features\\EditAccount.feature"},
+        features = {".\\Features\\EditAccount.feature",".\\Features\\Register.feature"},
         glue="StepDefinitions",
         dryRun = false,
         monochrome = true,
@@ -23,5 +26,19 @@ import io.cucumber.testng.CucumberOptions;
                 "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:","rerun:target/failedCases.txt"
         }
 )
-public class Runner extends AbstractTestNGCucumberTests{
+public class Parallel_Runner extends AbstractTestNGCucumberTests {
+
+
+        @BeforeClass
+        @Parameters("browser")
+        public void beforeClass(String browser) {
+                System.setProperty("browser", browser);
+        }
+
+        @DataProvider(parallel = true)
+        public Object[][] scenarios() {
+                return super.scenarios();
+        }
+
 }
+

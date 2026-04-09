@@ -8,8 +8,8 @@ import io.cucumber.testng.CucumberOptions;
 //@RunWith(Cucumber.class)
 @CucumberOptions(
         //features = {".\\Features"},
-        features = {"@target/failedCases.txt"},
-        // features = {".\\Features\\EditAccount.feature"},
+//features = {"@target/failedCases.txt"},
+        features = {".\\Features\\EditAccount.feature"},
         glue="StepDefinitions",
         dryRun = false,
         monochrome = true,

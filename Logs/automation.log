@@ -1,36 +1,498 @@
-12:52:47.904 [main] INFO  StepDefinitions.Step - Url opened..
-12:52:50.088 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
-12:52:50.417 [main] INFO  StepDefinitions.Step - User clicked on login button..
-12:52:52.979 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
-12:53:04.416 [main] INFO  StepDefinitions.Step - Url opened..
-12:53:06.587 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
-12:53:06.948 [main] INFO  StepDefinitions.Step - User clicked on login button..
-12:53:13.490 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
-12:53:13.926 [main] INFO  StepDefinitions.Step - Closing browser
-13:02:06.765 [main] INFO  StepDefinitions.Step - Url opened..
-13:02:08.979 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
-13:02:09.405 [main] INFO  StepDefinitions.Step - User clicked on login button..
-13:02:11.974 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
-13:02:23.128 [main] INFO  StepDefinitions.Step - Url opened..
-13:02:25.330 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
-13:02:25.698 [main] INFO  StepDefinitions.Step - User clicked on login button..
-13:02:32.295 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
-13:02:32.757 [main] INFO  StepDefinitions.Step - Closing browser
-13:08:25.602 [main] INFO  StepDefinitions.Step - Url opened..
-13:08:27.800 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
-13:08:28.163 [main] INFO  StepDefinitions.Step - User clicked on login button..
-13:08:30.770 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
-13:08:41.109 [main] INFO  StepDefinitions.Step - Url opened..
-13:08:43.279 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
-13:08:43.653 [main] INFO  StepDefinitions.Step - User clicked on login button..
-13:08:50.168 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
-13:08:50.589 [main] INFO  StepDefinitions.Step - Closing browser
-18:01:51.845 [main] INFO  StepDefinitions.Step - Url opened..
-18:01:54.199 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
-18:01:55.293 [main] INFO  StepDefinitions.Step - User clicked on login button..
-18:01:58.129 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
-18:02:09.384 [main] INFO  StepDefinitions.Step - Url opened..
-18:02:11.568 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
-18:02:12.028 [main] INFO  StepDefinitions.Step - User clicked on login button..
-18:02:18.513 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
-18:02:18.968 [main] INFO  StepDefinitions.Step - Closing browser
+16:37:08.529 [main] INFO  StepDefinitions.Step - Browser started..
+16:37:10.421 [main] INFO  StepDefinitions.Step - Url opened..
+16:37:12.634 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:37:13.156 [main] INFO  StepDefinitions.Step - User clicked on login button..
+16:37:18.312 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:37:28.878 [main] INFO  StepDefinitions.Step - Browser started..
+16:37:30.430 [main] INFO  StepDefinitions.Step - Url opened..
+16:37:32.613 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:37:33.037 [main] INFO  StepDefinitions.Step - User clicked on login button..
+16:37:52.950 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:37:53.418 [main] INFO  StepDefinitions.Step - Closing browser
+16:38:02.354 [main] INFO  StepDefinitions.Step - Browser started..
+16:38:04.181 [main] INFO  StepDefinitions.Step - Url opened..
+16:38:06.377 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:38:17.337 [main] INFO  StepDefinitions.Step - Browser started..
+16:38:18.962 [main] INFO  StepDefinitions.Step - Url opened..
+16:38:21.100 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:40:34.027 [TestNG-tests-3] INFO  StepDefinitions.Step - Browser started..
+16:40:35.633 [TestNG-tests-3] INFO  StepDefinitions.Step - Url opened..
+16:40:37.423 [TestNG-tests-1] INFO  StepDefinitions.Step - Browser started..
+16:40:38.593 [TestNG-tests-2] INFO  StepDefinitions.Step - Browser started..
+16:40:38.884 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:40:39.915 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on login button..
+16:40:42.054 [TestNG-tests-2] INFO  StepDefinitions.Step - Url opened..
+16:40:42.626 [TestNG-tests-1] INFO  StepDefinitions.Step - Url opened..
+16:40:44.423 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:40:44.916 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:40:45.328 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on login button..
+16:40:45.676 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on login button..
+16:40:50.482 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:40:51.891 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:40:52.289 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:41:05.405 [TestNG-tests-1] INFO  StepDefinitions.Step - Browser started..
+16:41:08.590 [TestNG-tests-1] INFO  StepDefinitions.Step - Url opened..
+16:41:11.072 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:41:11.591 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on login button..
+16:41:13.972 [TestNG-tests-2] INFO  StepDefinitions.Step - Browser started..
+16:41:14.245 [TestNG-tests-3] INFO  StepDefinitions.Step - Browser started..
+16:41:17.779 [TestNG-tests-2] INFO  StepDefinitions.Step - Url opened..
+16:41:19.414 [TestNG-tests-3] INFO  StepDefinitions.Step - Url opened..
+16:41:20.600 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:41:21.262 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on login button..
+16:41:21.811 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:41:22.738 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on login button..
+16:41:32.996 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:41:33.584 [TestNG-tests-1] INFO  StepDefinitions.Step - Closing browser
+16:41:43.055 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:41:44.729 [TestNG-tests-2] INFO  StepDefinitions.Step - Closing browser
+16:41:44.843 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:41:46.142 [TestNG-tests-1] INFO  StepDefinitions.Step - Browser started..
+16:41:46.977 [TestNG-tests-3] INFO  StepDefinitions.Step - Closing browser
+16:41:50.237 [TestNG-tests-1] INFO  StepDefinitions.Step - Url opened..
+16:41:52.641 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:42:05.743 [TestNG-tests-3] INFO  StepDefinitions.Step - Browser started..
+16:42:09.799 [TestNG-tests-3] INFO  StepDefinitions.Step - Url opened..
+16:42:12.139 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:42:14.020 [TestNG-tests-1] INFO  StepDefinitions.Step - Browser started..
+16:42:16.212 [TestNG-tests-1] INFO  StepDefinitions.Step - Url opened..
+16:42:17.982 [TestNG-tests-2] INFO  StepDefinitions.Step - Browser started..
+16:42:19.058 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:42:20.238 [TestNG-tests-2] INFO  StepDefinitions.Step - Url opened..
+16:42:22.621 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:42:36.988 [TestNG-tests-3] INFO  StepDefinitions.Step - Browser started..
+16:42:39.388 [TestNG-tests-3] INFO  StepDefinitions.Step - Url opened..
+16:42:41.728 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:42:43.969 [TestNG-tests-2] INFO  StepDefinitions.Step - Browser started..
+16:42:46.756 [TestNG-tests-2] INFO  StepDefinitions.Step - Url opened..
+16:42:49.024 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:48:13.962 [TestNG-tests-1] INFO  StepDefinitions.Step - Browser started..
+16:48:14.423 [TestNG-tests-2] INFO  StepDefinitions.Step - Browser started..
+16:48:17.832 [TestNG-tests-1] INFO  StepDefinitions.Step - Url opened..
+16:48:17.900 [TestNG-tests-2] INFO  StepDefinitions.Step - Url opened..
+16:48:18.083 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:48:18.985 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on login button..
+16:48:20.206 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:48:20.641 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:48:20.988 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on login button..
+16:48:22.281 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on login button..
+16:48:27.263 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:48:27.402 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:48:29.708 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:48:41.871 [TestNG-tests-2] INFO  StepDefinitions.Step - Browser started..
+16:48:46.861 [TestNG-tests-3] INFO  StepDefinitions.Step - Browser started..
+16:48:47.441 [TestNG-tests-2] INFO  StepDefinitions.Step - Url opened..
+16:48:47.790 [TestNG-tests-1] INFO  StepDefinitions.Step - Browser started..
+16:48:48.935 [TestNG-tests-3] INFO  StepDefinitions.Step - Url opened..
+16:48:51.183 [TestNG-tests-1] INFO  StepDefinitions.Step - Url opened..
+16:48:51.702 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:48:52.848 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on login button..
+16:48:52.903 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:48:53.723 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on login button..
+16:48:53.989 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:48:55.131 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on login button..
+16:49:12.596 [TestNG-tests-3] INFO  StepDefinitions.Step - Browser started..
+16:49:19.546 [TestNG-tests-3] INFO  StepDefinitions.Step - Url opened..
+16:49:21.128 [TestNG-tests-1] INFO  StepDefinitions.Step - Browser started..
+16:49:24.590 [TestNG-tests-1] INFO  StepDefinitions.Step - Url opened..
+16:49:27.531 [TestNG-tests-2] INFO  StepDefinitions.Step - Browser started..
+16:49:30.415 [TestNG-tests-2] INFO  StepDefinitions.Step - Url opened..
+16:49:31.069 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:49:34.828 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:49:34.936 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:50:08.844 [TestNG-tests-3] INFO  StepDefinitions.Step - Browser started..
+16:50:08.865 [TestNG-tests-2] INFO  StepDefinitions.Step - Browser started..
+16:50:09.828 [TestNG-tests-3] INFO  StepDefinitions.Step - Url opened..
+16:50:12.392 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:52:09.728 [TestNG-tests-1] INFO  StepDefinitions.Step - Browser started..
+16:52:17.678 [TestNG-tests-3] INFO  StepDefinitions.Step - Browser started..
+16:52:17.981 [TestNG-tests-2] INFO  StepDefinitions.Step - Browser started..
+16:52:17.991 [TestNG-tests-1] INFO  StepDefinitions.Step - Browser started..
+16:52:25.146 [TestNG-tests-1] INFO  StepDefinitions.Step - Browser started..
+16:52:25.220 [TestNG-tests-3] INFO  StepDefinitions.Step - Browser started..
+16:52:25.490 [TestNG-tests-2] INFO  StepDefinitions.Step - Browser started..
+16:52:32.027 [TestNG-tests-3] INFO  StepDefinitions.Step - Browser started..
+16:52:32.355 [TestNG-tests-1] INFO  StepDefinitions.Step - Browser started..
+16:52:32.356 [TestNG-tests-2] INFO  StepDefinitions.Step - Browser started..
+16:53:34.765 [TestNG-tests-2] INFO  StepDefinitions.Step - Browser started..
+16:53:35.188 [TestNG-tests-3] INFO  StepDefinitions.Step - Browser started..
+16:53:37.440 [TestNG-tests-1] INFO  StepDefinitions.Step - Url opened..
+16:53:37.749 [TestNG-tests-2] INFO  StepDefinitions.Step - Url opened..
+16:53:38.442 [TestNG-tests-3] INFO  StepDefinitions.Step - Url opened..
+16:53:39.695 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:53:40.076 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:53:40.450 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on login button..
+16:53:40.874 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:53:41.440 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on login button..
+16:53:41.808 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on login button..
+16:53:51.905 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:53:57.556 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:53:58.090 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:54:07.322 [TestNG-tests-1] INFO  StepDefinitions.Step - Browser started..
+16:54:07.687 [TestNG-tests-3] INFO  StepDefinitions.Step - Browser started..
+16:54:08.048 [TestNG-tests-2] INFO  StepDefinitions.Step - Browser started..
+16:54:08.384 [TestNG-tests-3] INFO  StepDefinitions.Step - Url opened..
+16:54:09.806 [TestNG-tests-1] INFO  StepDefinitions.Step - Url opened..
+16:54:11.153 [TestNG-tests-2] INFO  StepDefinitions.Step - Url opened..
+16:54:11.761 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:54:12.315 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:54:13.143 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on login button..
+16:54:13.257 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on login button..
+16:54:13.484 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:54:14.430 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on login button..
+16:54:21.688 [TestNG-tests-1] INFO  StepDefinitions.Step - Browser started..
+16:54:23.123 [TestNG-tests-1] INFO  StepDefinitions.Step - Url opened..
+16:54:24.956 [TestNG-tests-3] INFO  StepDefinitions.Step - Browser started..
+16:54:25.507 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:54:26.259 [TestNG-tests-3] INFO  StepDefinitions.Step - Url opened..
+16:54:29.443 [TestNG-tests-2] INFO  StepDefinitions.Step - Browser started..
+16:54:29.861 [TestNG-tests-2] INFO  StepDefinitions.Step - Url opened..
+16:54:34.075 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:54:34.917 [TestNG-tests-3] INFO  StepDefinitions.Step - Browser started..
+16:54:34.948 [TestNG-tests-1] INFO  StepDefinitions.Step - Browser started..
+16:54:35.520 [TestNG-tests-1] INFO  StepDefinitions.Step - Url opened..
+16:54:36.771 [TestNG-tests-3] INFO  StepDefinitions.Step - Url opened..
+16:54:38.949 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:54:39.319 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+16:54:47.440 [TestNG-tests-2] INFO  StepDefinitions.Step - Browser started..
+17:06:45.322 [main] INFO  StepDefinitions.Step - Browser started..
+17:06:46.768 [main] INFO  StepDefinitions.Step - Url opened..
+17:06:48.957 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:06:49.453 [main] INFO  StepDefinitions.Step - User clicked on login button..
+17:06:53.889 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:07:00.110 [main] INFO  StepDefinitions.Step - Browser started..
+17:07:01.279 [main] INFO  StepDefinitions.Step - Url opened..
+17:07:03.522 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:07:04.178 [main] INFO  StepDefinitions.Step - User clicked on login button..
+17:36:58.806 [TestNG-tests-1] INFO  StepDefinitions.Step - Browser started..
+17:36:58.999 [TestNG-tests-1] INFO  StepDefinitions.Step - Browser started..
+17:36:59.059 [TestNG-tests-1] INFO  StepDefinitions.Step - Browser started..
+17:36:59.093 [TestNG-tests-1] INFO  StepDefinitions.Step - Browser started..
+17:38:19.656 [TestNG-tests-3] INFO  StepDefinitions.Step - Browser started..
+17:38:19.781 [TestNG-tests-3] INFO  StepDefinitions.Step - Browser started..
+17:38:19.853 [TestNG-tests-3] INFO  StepDefinitions.Step - Browser started..
+17:38:19.891 [TestNG-tests-3] INFO  StepDefinitions.Step - Browser started..
+17:42:11.524 [main] INFO  StepDefinitions.Step - Browser started..
+17:42:12.834 [main] INFO  StepDefinitions.Step - Url opened..
+17:42:15.056 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:42:15.518 [main] INFO  StepDefinitions.Step - User clicked on login button..
+17:42:20.908 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:42:26.199 [main] INFO  StepDefinitions.Step - Browser started..
+17:42:27.486 [main] INFO  StepDefinitions.Step - Url opened..
+17:42:29.716 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:42:30.388 [main] INFO  StepDefinitions.Step - User clicked on login button..
+17:42:36.579 [main] INFO  StepDefinitions.Step - Browser started..
+17:42:37.248 [main] INFO  StepDefinitions.Step - Url opened..
+17:42:39.388 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:42:44.281 [main] INFO  StepDefinitions.Step - Browser started..
+17:42:45.798 [main] INFO  StepDefinitions.Step - Url opened..
+17:42:47.980 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:44:48.974 [TestNG-tests-1] INFO  StepDefinitions.Step - Browser started..
+17:44:50.634 [TestNG-tests-2] INFO  StepDefinitions.Step - Url opened..
+17:44:51.174 [TestNG-tests-3] INFO  StepDefinitions.Step - Url opened..
+17:44:51.797 [TestNG-tests-1] INFO  StepDefinitions.Step - Url opened..
+17:44:52.910 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:44:53.431 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:44:53.679 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on login button..
+17:44:54.189 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on login button..
+17:44:54.868 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:44:55.766 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on login button..
+17:45:01.484 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:45:01.810 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:45:04.235 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:45:12.789 [TestNG-tests-2] INFO  StepDefinitions.Step - Browser started..
+17:45:13.229 [TestNG-tests-1] INFO  StepDefinitions.Step - Browser started..
+17:45:13.337 [TestNG-tests-3] INFO  StepDefinitions.Step - Browser started..
+17:45:16.931 [TestNG-tests-2] INFO  StepDefinitions.Step - Url opened..
+17:45:17.427 [TestNG-tests-1] INFO  StepDefinitions.Step - Url opened..
+17:45:17.894 [TestNG-tests-3] INFO  StepDefinitions.Step - Url opened..
+17:45:19.156 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:45:19.646 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on login button..
+17:45:20.269 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:45:20.950 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:45:21.230 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on login button..
+17:45:21.902 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on login button..
+17:45:26.670 [TestNG-tests-2] INFO  StepDefinitions.Step - Browser started..
+17:45:28.232 [TestNG-tests-2] INFO  StepDefinitions.Step - Url opened..
+17:45:30.581 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:45:34.721 [TestNG-tests-3] INFO  StepDefinitions.Step - Browser started..
+17:45:36.342 [TestNG-tests-3] INFO  StepDefinitions.Step - Url opened..
+17:45:38.669 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:45:41.155 [TestNG-tests-1] INFO  StepDefinitions.Step - Browser started..
+17:45:43.007 [TestNG-tests-1] INFO  StepDefinitions.Step - Url opened..
+17:45:46.690 [TestNG-tests-2] INFO  StepDefinitions.Step - Browser started..
+17:45:47.368 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:45:48.128 [TestNG-tests-2] INFO  StepDefinitions.Step - Url opened..
+17:45:51.242 [TestNG-tests-3] INFO  StepDefinitions.Step - Browser started..
+17:45:51.661 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:45:52.725 [TestNG-tests-3] INFO  StepDefinitions.Step - Url opened..
+17:45:55.318 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:46:11.396 [TestNG-tests-1] INFO  StepDefinitions.Step - Browser started..
+17:46:12.660 [TestNG-tests-1] INFO  StepDefinitions.Step - Url opened..
+17:46:14.851 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:46:54.642 [main] INFO  StepDefinitions.Step - Browser started..
+17:46:55.806 [main] INFO  StepDefinitions.Step - Url opened..
+17:46:57.959 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:46:58.324 [main] INFO  StepDefinitions.Step - User clicked on login button..
+17:47:02.642 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:47:07.445 [main] INFO  StepDefinitions.Step - Browser started..
+17:47:08.485 [main] INFO  StepDefinitions.Step - Url opened..
+17:47:10.682 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:47:11.217 [main] INFO  StepDefinitions.Step - User clicked on login button..
+17:47:18.380 [main] INFO  StepDefinitions.Step - Browser started..
+17:47:19.351 [main] INFO  StepDefinitions.Step - Url opened..
+17:47:21.485 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:47:25.349 [main] INFO  StepDefinitions.Step - Browser started..
+17:47:26.488 [main] INFO  StepDefinitions.Step - Url opened..
+17:47:28.698 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:47:44.531 [main] INFO  StepDefinitions.Step - Browser started..
+17:47:45.703 [main] INFO  StepDefinitions.Step - Url opened..
+17:47:47.893 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:47:48.362 [main] INFO  StepDefinitions.Step - User clicked on login button..
+17:47:52.806 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:47:56.590 [main] INFO  StepDefinitions.Step - Browser started..
+17:47:57.838 [main] INFO  StepDefinitions.Step - Url opened..
+17:48:00.014 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:48:00.510 [main] INFO  StepDefinitions.Step - User clicked on login button..
+17:48:08.731 [main] INFO  StepDefinitions.Step - Browser started..
+17:48:09.194 [main] INFO  StepDefinitions.Step - Url opened..
+17:48:11.280 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:49:38.782 [main] INFO  StepDefinitions.Step - Browser started..
+17:49:39.877 [main] INFO  StepDefinitions.Step - Url opened..
+17:49:42.158 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:49:42.671 [main] INFO  StepDefinitions.Step - User clicked on login button..
+17:49:48.054 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:49:53.471 [main] INFO  StepDefinitions.Step - Browser started..
+17:49:54.553 [main] INFO  StepDefinitions.Step - Url opened..
+17:49:56.736 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:49:57.238 [main] INFO  StepDefinitions.Step - User clicked on login button..
+17:50:03.383 [main] INFO  StepDefinitions.Step - Browser started..
+17:50:05.001 [main] INFO  StepDefinitions.Step - Url opened..
+17:50:07.138 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:50:11.232 [main] INFO  StepDefinitions.Step - Browser started..
+17:50:12.433 [main] INFO  StepDefinitions.Step - Url opened..
+17:50:14.586 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:50:29.959 [main] INFO  StepDefinitions.Step - Browser started..
+17:50:32.111 [main] INFO  StepDefinitions.Step - Url opened..
+17:50:34.316 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:50:34.819 [main] INFO  StepDefinitions.Step - User clicked on login button..
+17:56:42.285 [main] INFO  StepDefinitions.Step - Browser started..
+17:56:42.415 [main] INFO  StepDefinitions.Step - Browser started..
+17:56:47.162 [main] INFO  StepDefinitions.Step - Browser started..
+17:56:47.303 [main] INFO  StepDefinitions.Step - Browser started..
+17:56:48.829 [main] INFO  StepDefinitions.Step - Browser started..
+17:56:48.894 [main] INFO  StepDefinitions.Step - Browser started..
+17:57:51.680 [main] INFO  StepDefinitions.Step - Browser started..
+17:57:52.005 [main] INFO  StepDefinitions.Step - Browser started..
+17:57:59.182 [main] INFO  StepDefinitions.Step - Browser started..
+17:57:59.262 [main] INFO  StepDefinitions.Step - Browser started..
+17:58:01.063 [main] INFO  StepDefinitions.Step - Browser started..
+17:58:01.168 [main] INFO  StepDefinitions.Step - Browser started..
+17:58:49.710 [main] INFO  StepDefinitions.Step - Browser started..
+17:58:51.087 [main] INFO  StepDefinitions.Step - Url opened..
+17:58:53.313 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:58:53.792 [main] INFO  StepDefinitions.Step - User clicked on login button..
+17:58:58.317 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:59:02.047 [main] INFO  StepDefinitions.Step - Browser started..
+17:59:03.186 [main] INFO  StepDefinitions.Step - Url opened..
+17:59:11.399 [main] INFO  StepDefinitions.Step - Browser started..
+17:59:15.898 [main] INFO  StepDefinitions.Step - Browser started..
+17:59:16.966 [main] INFO  StepDefinitions.Step - Url opened..
+17:59:23.807 [main] INFO  StepDefinitions.Step - Browser started..
+17:59:24.975 [main] INFO  StepDefinitions.Step - Url opened..
+17:59:27.198 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:59:31.760 [main] INFO  StepDefinitions.Step - Browser started..
+17:59:32.962 [main] INFO  StepDefinitions.Step - Url opened..
+17:59:35.205 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+17:59:35.711 [main] INFO  StepDefinitions.Step - User clicked on login button..
+18:00:52.654 [main] INFO  StepDefinitions.Step - Browser started..
+18:00:53.917 [main] INFO  StepDefinitions.Step - Url opened..
+18:00:59.047 [main] INFO  StepDefinitions.Step - Browser started..
+18:01:00.319 [main] INFO  StepDefinitions.Step - Url opened..
+18:01:02.471 [main] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:01:02.890 [main] INFO  StepDefinitions.Step - User clicked on login button..
+18:02:09.877 [TestNG-tests-3] INFO  StepDefinitions.Step - Browser started..
+18:02:11.900 [TestNG-tests-2] INFO  StepDefinitions.Step - Url opened..
+18:02:12.446 [TestNG-tests-1] INFO  StepDefinitions.Step - Url opened..
+18:02:12.713 [TestNG-tests-3] INFO  StepDefinitions.Step - Url opened..
+18:02:14.342 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:02:14.700 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:02:15.200 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on login button..
+18:02:15.538 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on login button..
+18:02:15.569 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:02:16.743 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on login button..
+18:02:25.170 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:02:30.482 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:02:32.832 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:02:41.808 [TestNG-tests-3] INFO  StepDefinitions.Step - Browser started..
+18:02:42.367 [TestNG-tests-1] INFO  StepDefinitions.Step - Browser started..
+18:02:42.522 [TestNG-tests-2] INFO  StepDefinitions.Step - Browser started..
+18:02:44.807 [TestNG-tests-3] INFO  StepDefinitions.Step - Url opened..
+18:02:46.513 [TestNG-tests-2] INFO  StepDefinitions.Step - Url opened..
+18:02:47.084 [TestNG-tests-1] INFO  StepDefinitions.Step - Url opened..
+18:02:47.313 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:02:48.036 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on login button..
+18:02:48.865 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:02:49.339 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:02:49.739 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on login button..
+18:02:49.974 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on login button..
+18:11:18.458 [TestNG-tests-1] INFO  StepDefinitions.Step - Browser started..
+18:11:19.195 [TestNG-tests-1] INFO  StepDefinitions.Step - Url opened..
+18:11:24.418 [TestNG-tests-2] INFO  StepDefinitions.Step - Browser started..
+18:11:27.953 [TestNG-tests-3] INFO  StepDefinitions.Step - Browser started..
+18:11:28.375 [TestNG-tests-3] INFO  StepDefinitions.Step - Url opened..
+18:11:29.456 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:11:30.717 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:11:31.227 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on login button..
+18:11:33.074 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on login button..
+18:11:34.419 [TestNG-tests-2] INFO  StepDefinitions.Step - Url opened..
+18:11:36.922 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:11:37.461 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on login button..
+18:11:40.459 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:11:41.897 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:11:44.655 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:11:50.664 [TestNG-tests-3] INFO  StepDefinitions.Step - Browser started..
+18:11:53.221 [TestNG-tests-3] INFO  StepDefinitions.Step - Url opened..
+18:11:55.492 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:11:56.130 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on login button..
+18:11:59.843 [TestNG-tests-1] INFO  StepDefinitions.Step - Browser started..
+18:12:01.252 [TestNG-tests-1] INFO  StepDefinitions.Step - Url opened..
+18:12:04.320 [TestNG-tests-2] INFO  StepDefinitions.Step - Browser started..
+18:12:06.165 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:12:06.178 [TestNG-tests-2] INFO  StepDefinitions.Step - Url opened..
+18:12:06.889 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on login button..
+18:12:08.380 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:12:08.995 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on login button..
+18:13:35.277 [TestNG-tests-3] INFO  StepDefinitions.Step - Browser started..
+18:13:37.651 [TestNG-tests-1] INFO  StepDefinitions.Step - Url opened..
+18:13:38.406 [TestNG-tests-3] INFO  StepDefinitions.Step - Url opened..
+18:13:40.332 [TestNG-tests-2] INFO  StepDefinitions.Step - Browser started..
+18:13:40.542 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:13:42.190 [TestNG-tests-2] INFO  StepDefinitions.Step - Url opened..
+18:13:43.339 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on login button..
+18:13:44.584 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:13:44.703 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:13:45.308 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on login button..
+18:13:46.573 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on login button..
+18:13:50.576 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:13:50.920 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:13:53.572 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:13:58.696 [TestNG-tests-1] INFO  StepDefinitions.Step - Browser started..
+18:14:05.281 [TestNG-tests-3] INFO  StepDefinitions.Step - Browser started..
+18:14:05.290 [TestNG-tests-2] INFO  StepDefinitions.Step - Browser started..
+18:15:45.552 [TestNG-tests-3] INFO  StepDefinitions.Step - Browser started..
+18:15:46.154 [TestNG-tests-3] INFO  StepDefinitions.Step - Url opened..
+18:15:47.018 [TestNG-tests-2] INFO  StepDefinitions.Step - Browser started..
+18:15:48.578 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:15:49.825 [TestNG-tests-2] INFO  StepDefinitions.Step - Url opened..
+18:15:50.434 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on login button..
+18:15:51.625 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:15:52.210 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:15:52.910 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on login button..
+18:15:54.719 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on login button..
+18:15:58.378 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:15:58.521 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:16:01.382 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:16:05.982 [TestNG-tests-1] INFO  StepDefinitions.Step - Browser started..
+18:16:05.989 [TestNG-tests-3] INFO  StepDefinitions.Step - Browser started..
+18:16:06.137 [TestNG-tests-2] INFO  StepDefinitions.Step - Browser started..
+18:16:50.230 [TestNG-tests-1] INFO  StepDefinitions.Step - Browser started..
+18:16:51.227 [TestNG-tests-1] INFO  StepDefinitions.Step - Url opened..
+18:16:51.918 [TestNG-tests-3] INFO  StepDefinitions.Step - Url opened..
+18:16:54.045 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:16:54.328 [TestNG-tests-2] INFO  StepDefinitions.Step - Browser started..
+18:16:55.085 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on login button..
+18:16:55.502 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:16:56.288 [TestNG-tests-2] INFO  StepDefinitions.Step - Url opened..
+18:16:57.933 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on login button..
+18:16:58.528 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:16:59.103 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on login button..
+18:17:02.699 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:17:04.158 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:17:05.728 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:17:10.449 [TestNG-tests-3] INFO  StepDefinitions.Step - Browser started..
+18:17:10.492 [TestNG-tests-2] INFO  StepDefinitions.Step - Browser started..
+18:17:10.504 [TestNG-tests-1] INFO  StepDefinitions.Step - Browser started..
+18:19:43.552 [TestNG-tests-1] INFO  StepDefinitions.Step - Browser started..
+18:19:46.511 [TestNG-tests-2] INFO  StepDefinitions.Step - Browser started..
+18:19:54.110 [TestNG-tests-3] INFO  StepDefinitions.Step - Browser started..
+18:19:54.522 [TestNG-tests-1] INFO  StepDefinitions.Step - Browser started..
+18:19:54.576 [TestNG-tests-2] INFO  StepDefinitions.Step - Browser started..
+18:21:03.988 [TestNG-tests-1] INFO  StepDefinitions.Step - Browser started..
+18:21:04.813 [TestNG-tests-1] INFO  StepDefinitions.Step - Url opened..
+18:21:06.000 [TestNG-tests-3] INFO  StepDefinitions.Step - Url opened..
+18:21:09.591 [TestNG-tests-2] INFO  StepDefinitions.Step - Browser started..
+18:21:10.216 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:21:10.373 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:21:11.916 [TestNG-tests-2] INFO  StepDefinitions.Step - Url opened..
+18:21:12.029 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on login button..
+18:21:12.243 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on login button..
+18:21:14.267 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:21:15.205 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on login button..
+18:21:19.580 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:21:21.698 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:21:36.704 [TestNG-tests-2] INFO  StepDefinitions.Step - Browser started..
+18:21:37.265 [TestNG-tests-3] INFO  StepDefinitions.Step - Browser started..
+18:21:40.047 [TestNG-tests-2] INFO  StepDefinitions.Step - Url opened..
+18:21:40.628 [TestNG-tests-3] INFO  StepDefinitions.Step - Url opened..
+18:21:42.749 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:21:44.204 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on login button..
+18:21:47.616 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:21:49.506 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on login button..
+18:26:40.288 [TestNG-tests-1] INFO  StepDefinitions.Step - Browser started..
+18:26:43.819 [TestNG-tests-2] INFO  StepDefinitions.Step - Browser started..
+18:26:51.004 [TestNG-tests-2] INFO  StepDefinitions.Step - Browser started..
+18:26:51.435 [TestNG-tests-1] INFO  StepDefinitions.Step - Browser started..
+18:26:54.886 [TestNG-tests-3] INFO  StepDefinitions.Step - Browser started..
+18:28:26.731 [TestNG-tests-3] INFO  StepDefinitions.Step - Browser started..
+18:28:28.273 [TestNG-tests-1] INFO  StepDefinitions.Step - Url opened..
+18:28:29.012 [TestNG-tests-3] INFO  StepDefinitions.Step - Url opened..
+18:28:30.846 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:28:32.333 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on login button..
+18:28:32.711 [TestNG-tests-2] INFO  StepDefinitions.Step - Browser started..
+18:28:32.983 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:28:34.141 [TestNG-tests-2] INFO  StepDefinitions.Step - Url opened..
+18:28:34.417 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on login button..
+18:28:36.710 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:28:37.447 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on login button..
+18:28:40.386 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:28:41.231 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:28:43.616 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:28:50.710 [TestNG-tests-3] INFO  StepDefinitions.Step - Browser started..
+18:28:53.888 [TestNG-tests-1] INFO  StepDefinitions.Step - Browser started..
+18:28:55.506 [TestNG-tests-3] INFO  StepDefinitions.Step - Url opened..
+18:28:58.017 [TestNG-tests-1] INFO  StepDefinitions.Step - Url opened..
+18:28:58.578 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:29:00.562 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:29:00.966 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on login button..
+18:29:02.189 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on login button..
+18:29:05.419 [TestNG-tests-2] INFO  StepDefinitions.Step - Browser started..
+18:29:07.486 [TestNG-tests-2] INFO  StepDefinitions.Step - Url opened..
+18:29:09.817 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:29:10.784 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on login button..
+18:33:33.557 [TestNG-tests-1] INFO  StepDefinitions.Step - Browser started..
+18:33:35.562 [TestNG-tests-3] INFO  StepDefinitions.Step - Url opened..
+18:33:35.741 [TestNG-tests-1] INFO  StepDefinitions.Step - Url opened..
+18:33:38.453 [TestNG-tests-2] INFO  StepDefinitions.Step - Browser started..
+18:33:39.205 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:33:39.401 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:33:40.451 [TestNG-tests-2] INFO  StepDefinitions.Step - Url opened..
+18:33:40.539 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on login button..
+18:33:40.792 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on login button..
+18:33:42.718 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:33:43.756 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on login button..
+18:33:47.064 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:33:48.712 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:33:49.635 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:33:59.313 [TestNG-tests-1] INFO  StepDefinitions.Step - Browser started..
+18:34:00.358 [TestNG-tests-3] INFO  StepDefinitions.Step - Browser started..
+18:34:00.486 [TestNG-tests-1] INFO  StepDefinitions.Step - Url opened..
+18:34:00.496 [TestNG-tests-2] INFO  StepDefinitions.Step - Browser started..
+18:34:05.665 [TestNG-tests-3] INFO  StepDefinitions.Step - Url opened..
+18:34:06.064 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:34:06.298 [TestNG-tests-2] INFO  StepDefinitions.Step - Url opened..
+18:34:06.820 [TestNG-tests-1] INFO  StepDefinitions.Step - User clicked on login button..
+18:34:08.185 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:34:08.598 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on My Account link..
+18:34:08.747 [TestNG-tests-3] INFO  StepDefinitions.Step - User clicked on login button..
+18:34:09.564 [TestNG-tests-2] INFO  StepDefinitions.Step - User clicked on login button..

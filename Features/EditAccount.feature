@@ -19,7 +19,7 @@ Feature: Edit Account details
     Then Page Title should be displayed "Success: Your account has been successfully updated."
     When Click on My Account link
     And User click on Logout button
-    Then Page Title should be "Account Logoutt"
+    Then Page Title should be "Account Logout"
     And Close browser
 
   @sanity @regression
